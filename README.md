@@ -1,6 +1,6 @@
 # CashFlow Personal Analyzer (CPA) 📈
 
-**CashFlow Personal Analyzer (CPA)** es una aplicación web premium de finanzas personales diseñada para reemplazar sistemas de contabilidad domésticos basados en planillas tradicionales (como Excel), ofreciendo un entorno relacional, seguro, inmutable y visualmente impactante.
+**CashFlow Personal Analyzer (CPA)** es una aplicación web de finanzas personales diseñada para reemplazar sistemas de contabilidad domésticos basados en planillas tradicionales (como Excel), ofreciendo un entorno relacional, seguro, inmutable y visualmente impactante.
 
 Desarrollada bajo una estética oscura moderna con efectos de **glassmorphism**, CPA te permite gestionar tus cuentas ("cajas"), clasificar tus ingresos y gastos de forma granular, visualizar análisis en tiempo real mediante widgets y gráficos dinámicos, y realizar un riguroso proceso de **auditoría y conciliación mensual** para mantener la consistencia entre tus registros y tu dinero real.
 
