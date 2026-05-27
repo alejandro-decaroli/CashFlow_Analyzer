@@ -116,6 +116,12 @@ def create_gasto(gasto_in: GastoCreate, db: Session = Depends(get_db)):
     if not caja.activo:
         raise HTTPException(status_code=400, detail="La caja seleccionada no está activa.")
         
+    if caja.saldo_actual < gasto_in.monto:
+        raise HTTPException(
+            status_code=400,
+            detail=f"Saldo insuficiente en la caja '{caja.nombre}'. El saldo disponible es ${caja.saldo_actual:.2f} y el gasto propuesto es ${gasto_in.monto:.2f}."
+        )
+        
     cat = db.query(CategoriaGasto).filter(CategoriaGasto.id == gasto_in.categoria_gasto_id).first()
     if not cat:
         raise HTTPException(status_code=404, detail="Categoría seleccionada no existe.")

@@ -14,7 +14,7 @@
 *.sig
 
 pkg/
-src/
+
 
 ### Linux ###
 *~
@@ -243,6 +243,7 @@ pyrightconfig.json
 package
 
 ### VisualStudioCode ###
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -287,3 +288,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python,svelte,archlinuxpackages,visualstudiocode
+
+# Documentación
+
+docs/
