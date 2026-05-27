@@ -82,3 +82,13 @@ Para comenzar a operar con tus finanzas limpias en CPA, te sugerimos seguir este
    * Haz clic en **Registrar Gasto** para debitar egresos. Si intentas ingresar un gasto mayor al saldo actual disponible de la caja seleccionada, la app te informará que no posees fondos suficientes y detendrá la operación.
 4. **Visualiza el Dashboard:** Consulta en tiempo real tus métricas de Ingreso Bruto, Gasto Total, Ahorro Acumulado, la tendencia de ingresos vs gastos en el gráfico de contraste máximo y tu ranking de top 5 mayores consumos mensuales.
 5. **Realiza tu Conciliación:** Al finalizar el mes, accede a la sección **Auditoría**. Selecciona el mes y año a auditar, presiona "Iniciar Auditoría", cuenta tus saldos reales y decláralos en la grilla. Presiona "Confirmar y Cerrar Período" en el diálogo premium estilizado. El sistema aplicará los auto-ajustes necesarios y blindará el mes contra alteraciones accidentales futuras.
+
+## Fotos
+
+<img width="1894" height="2673" alt="Screenshot 2026-05-27 at 15-53-52 CashFlow Analyzer — Finanzas Personales" src="https://github.com/user-attachments/assets/e40efb76-cd76-4347-a6e0-9f22b114c93f" />
+<img width="1895" height="1272" alt="Screenshot 2026-05-27 at 14-15-59 CashFlow Analyzer — Finanzas Personales" src="https://github.com/user-attachments/assets/5e52a0bd-455d-4abe-91ad-0eb2b7fa5396" />
+<img width="1896" height="588" alt="Screenshot 2026-05-27 at 14-16-13 CashFlow Analyzer — Finanzas Personales" src="https://github.com/user-attachments/assets/419e57c1-fb96-43e2-8fe7-fd232c16b186" />
+<img width="1895" height="1026" alt="Screenshot 2026-05-27 at 14-16-45 CashFlow Analyzer — Finanzas Personales" src="https://github.com/user-attachments/assets/0662230a-90f4-4f68-b4d0-d748385f7bbc" />
+<img width="1820" height="473" alt="Screenshot 2026-05-27 at 14-17-07 CashFlow Analyzer — Finanzas Personales" src="https://github.com/user-attachments/assets/9010b7e7-be80-498d-bd95-2fd0d04bd76e" />
+<img width="1896" height="936" alt="Screenshot 2026-05-27 at 14-17-12 CashFlow Analyzer — Finanzas Personales" src="https://github.com/user-attachments/assets/7df52a87-5162-4a7b-aad7-dab4268abedd" />
+
